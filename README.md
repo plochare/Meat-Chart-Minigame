@@ -9,7 +9,7 @@ Inspired by my visit and initial meetings with the Penn State Food Lab to invest
 The game mechanics are yet to be defined but will borrow from learing apps for anatomy and geography.
 
 - **Title Screen**:  
-![Title screen](Images/Start-Screen.jpg)
+![Title screen](Images/Start-Screen.png)
 
 - **Game Screen**:  
-![Game screen](Images/Game-Screen.jpg)
+![Game screen](Images/Game-Screen.png)
